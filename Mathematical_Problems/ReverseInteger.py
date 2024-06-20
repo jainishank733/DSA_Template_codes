@@ -22,3 +22,8 @@ def reverse(x):
 
 if __name__ == '__main__':
     print(reverse(1001))
+
+
+
+
+
